@@ -1,2 +1,4 @@
 # docs-discussions
-This repository is used as a storage for cTrader Desktop documentation site comments
+This repository is used to host all documentation sites discussions/comments.
+
+
