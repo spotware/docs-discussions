@@ -1,4 +1,4 @@
 # docs-discussions
-This repository is used to host all documentation sites discussions/comments.
+This repository is used to host all Help Portal discussions/comments.
 
 
